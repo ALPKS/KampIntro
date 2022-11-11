@@ -1,0 +1,14 @@
+C:\Users\alpca\Source\Repos\ALPKS\KampIntro\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.exe
+C:\Users\alpca\Source\Repos\ALPKS\KampIntro\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.deps.json
+C:\Users\alpca\Source\Repos\ALPKS\KampIntro\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.runtimeconfig.json
+C:\Users\alpca\Source\Repos\ALPKS\KampIntro\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.runtimeconfig.dev.json
+C:\Users\alpca\Source\Repos\ALPKS\KampIntro\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.dll
+C:\Users\alpca\Source\Repos\ALPKS\KampIntro\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.pdb
+C:\Users\alpca\Source\Repos\ALPKS\KampIntro\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.csproj.AssemblyReference.cache
+C:\Users\alpca\Source\Repos\ALPKS\KampIntro\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alpca\Source\Repos\ALPKS\KampIntro\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.AssemblyInfoInputs.cache
+C:\Users\alpca\Source\Repos\ALPKS\KampIntro\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.AssemblyInfo.cs
+C:\Users\alpca\Source\Repos\ALPKS\KampIntro\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\alpca\Source\Repos\ALPKS\KampIntro\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.dll
+C:\Users\alpca\Source\Repos\ALPKS\KampIntro\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.pdb
+C:\Users\alpca\Source\Repos\ALPKS\KampIntro\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.genruntimeconfig.cache

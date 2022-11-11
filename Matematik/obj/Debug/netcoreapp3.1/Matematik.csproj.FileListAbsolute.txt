@@ -1,0 +1,14 @@
+C:\Users\alpca\Source\Repos\ALPKS\KampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.exe
+C:\Users\alpca\Source\Repos\ALPKS\KampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.deps.json
+C:\Users\alpca\Source\Repos\ALPKS\KampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.runtimeconfig.json
+C:\Users\alpca\Source\Repos\ALPKS\KampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.runtimeconfig.dev.json
+C:\Users\alpca\Source\Repos\ALPKS\KampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.dll
+C:\Users\alpca\Source\Repos\ALPKS\KampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.pdb
+C:\Users\alpca\Source\Repos\ALPKS\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.csproj.AssemblyReference.cache
+C:\Users\alpca\Source\Repos\ALPKS\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alpca\Source\Repos\ALPKS\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.AssemblyInfoInputs.cache
+C:\Users\alpca\Source\Repos\ALPKS\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.AssemblyInfo.cs
+C:\Users\alpca\Source\Repos\ALPKS\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.csproj.CoreCompileInputs.cache
+C:\Users\alpca\Source\Repos\ALPKS\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.dll
+C:\Users\alpca\Source\Repos\ALPKS\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.pdb
+C:\Users\alpca\Source\Repos\ALPKS\KampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.genruntimeconfig.cache

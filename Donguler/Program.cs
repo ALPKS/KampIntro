@@ -15,11 +15,11 @@ namespace Donguler
 
             //array - dizi
 
-            string[] kurslar = new string[] { "Yazılım Geliştirici Yetiştirme Kampı", 
+            string[] kurslar = new string[] { "Yazılım Geliştirici Yetiştirme Kampı",
                 "Programlamaya başlangıç için temel kurs",
                 "Java", "Phyton", "C#"};
 
-            for (int i = 0; i<kurslar.Length; i++)
+            for (int i = 0; i < kurslar.Length; i++)
             {
                 Console.WriteLine(kurslar[i]);
             }

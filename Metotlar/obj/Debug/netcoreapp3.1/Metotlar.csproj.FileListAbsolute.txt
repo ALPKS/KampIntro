@@ -1,0 +1,14 @@
+C:\Users\alpca\Source\Repos\ALPKS\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.exe
+C:\Users\alpca\Source\Repos\ALPKS\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.deps.json
+C:\Users\alpca\Source\Repos\ALPKS\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.runtimeconfig.json
+C:\Users\alpca\Source\Repos\ALPKS\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.runtimeconfig.dev.json
+C:\Users\alpca\Source\Repos\ALPKS\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.dll
+C:\Users\alpca\Source\Repos\ALPKS\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.pdb
+C:\Users\alpca\Source\Repos\ALPKS\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.csproj.AssemblyReference.cache
+C:\Users\alpca\Source\Repos\ALPKS\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alpca\Source\Repos\ALPKS\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.AssemblyInfoInputs.cache
+C:\Users\alpca\Source\Repos\ALPKS\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.AssemblyInfo.cs
+C:\Users\alpca\Source\Repos\ALPKS\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\alpca\Source\Repos\ALPKS\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.dll
+C:\Users\alpca\Source\Repos\ALPKS\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.pdb
+C:\Users\alpca\Source\Repos\ALPKS\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.genruntimeconfig.cache
